@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="https://sgilewski.com/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.2.1">Jekyll</generator><link href="https://sgilewski.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://sgilewski.com/" rel="alternate" type="text/html" /><updated>2019-04-09T20:54:21+02:00</updated><id>https://sgilewski.com/</id><title type="html">Sławomir Gilewski</title><subtitle>Computer Science Student @ Poznan University of Technology</subtitle><entry><title type="html">My Machine Learning journey</title><link href="https://sgilewski.com/first-post/" rel="alternate" type="text/html" title="My Machine Learning journey" /><published>2019-04-09T00:00:00+02:00</published><updated>2019-04-09T00:00:00+02:00</updated><id>https://sgilewski.com/first-post</id><content type="html" xml:base="https://sgilewski.com/first-post/">&lt;h2 id=&quot;hi&quot;&gt;Hi!&lt;/h2&gt;
+
+&lt;p&gt;My name is Sławek and as you probably already know, I currently study Computer Science at Poznan University of Technology. I must say, I am very excited about this being the first post on my website. As a kind of an introduction, this post will be dedicated to learning Machine Learning as a student.&lt;/p&gt;
+
+&lt;h2 id=&quot;learning-at-the-uni&quot;&gt;Learning at the Uni&lt;/h2&gt;
+
+&lt;p&gt;Although we - students do a lot of programming and learn a lot about different technologies at the University, I have to admit: most of the stuff we have to learn is out-dated and we will not use them. Ever. Of course, we do learn things that might be useful such as Object-Oriented Programming or SQL language, but we also are forced to know how to program a timer in VHDL or memorize steps of a simplex algorithm.&lt;/p&gt;
+
+&lt;p&gt;The feeling I got is that the University is trying to teach us a lot of different (not necessarily useful) stuff in a very short time, which results in getting only the basics right.&lt;/p&gt;
+
+&lt;h2 id=&quot;what-do-i-do&quot;&gt;What do I do?&lt;/h2&gt;
+
+&lt;p&gt;Okay, now that you know my situation, you probably are asking yourself the same question I did some time ago. How the hell am I supposed to get a job after getting my degree? The answer is pretty obvious: learning by myself.&lt;/p&gt;
+
+&lt;p&gt;After I realised this, I tried to get into many areas of Computer Science. I started with Web Development not long after getting accepted in college, then I thought I would try OOP in Java. It was pretty rewarding, but I did not feel like I was doing something of value.&lt;/p&gt;
+
+&lt;p&gt;This is when I stumbled upon Machine Learning. The idea of computer program learning how to solve complex problems by itself, such as recognizing various objects, was simply fascinating to me. So I started to look for some materials as for how to start in this field.&lt;/p&gt;
+
+&lt;h2 id=&quot;my-learning-path&quot;&gt;My learning path&lt;/h2&gt;
+
+&lt;p&gt;I started with Kirill Eremenko courses at Udemy. As much as these videos introduced me well to this field, I did not feel like I know the background behind these algorithms I used. I knew how to implement basic prediction model, but I did not really understand it.&lt;/p&gt;
+
+&lt;p&gt;The person who really helped me get through the theory behind those algorithms was Andrew NG and his Machine Learning course (Stanford, Udemy). The goal of this course was to entirely focus on the intuition and mathematics behind these basic models, instead of doing the infamous model.fit().&lt;/p&gt;
+
+&lt;p&gt;Then I tried applying my knowledge in a project which involved predicting pollution based on weather data from the past few years. Although the project itself did not end up being successful, I learned a lot about working with data. I also got to experience myself the pain of preprocessing the data. After this small project, it was not long before I realized I need to learn about more complex algorithms if I want to build more complex models, such as object recognition.&lt;/p&gt;
+
+&lt;p&gt;This time I did not have to look far. The Deep Learning Specialization led by (again) Andrew NG was exactly what I have been looking for. After many hours spent on taking notes and completing the assignments, I:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Had an opportunity to brush up on implementing efficient neural networks,&lt;/li&gt;
+  &lt;li&gt;Learned how to implement and apply a variety of optimization algorithms, such as mini-batch gradient descent, Momentum, RMSprop and Adam,&lt;/li&gt;
+  &lt;li&gt;Understood how to build a convolutional neural network, including recent variations such as residual networks as well as applying them in projects like style transfer,&lt;/li&gt;
+  &lt;li&gt;Got to know how to build and train Recurrent Neural Networks (RNNs), and commonly-used variants such as GRUs and LSTMs&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;And that is pretty much it. After completing this course, I realized that before going any further, I would like to have some point of reference and I created this website, so now you are pretty much up to date.&lt;/p&gt;
+
+&lt;h2 id=&quot;what-now&quot;&gt;What now?&lt;/h2&gt;
+
+&lt;p&gt;I decided, that currently, I have enough basic knowledge to try and gain some experience by creating something on my own. At the moment I want to focus on Computer Vision, but I do not limit myself to a specific area of Deep Learning, as I find the whole idea of Deep Neural Networks interesting. I hope that soon you will be able to see the results of my work and give me some feedback!&lt;/p&gt;
+
+&lt;p&gt;See you soon,
+Sławek.&lt;/p&gt;</content><category term="machine learning" /><category term="experience" /><category term="certificate" /><category term="interests" /><summary type="html">How did I get into this field and how did I end up here?</summary></entry></feed>
